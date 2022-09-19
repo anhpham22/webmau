@@ -1,0 +1,386 @@
+[
+	{
+		"id":1,
+		"NAME_1":"Hà Nội",
+        "VARNAME_1":"Ha Noi",
+		"color":"#FF0000"
+	},
+	{
+		"id":2,
+		"NAME_1":"Vĩnh Phúc",
+        "VARNAME_1":"Vinh Phuc",
+		"color":"#FF0000"
+	},
+	{
+		"id":3,
+		"NAME_1":"Bắc Ninh",
+        "VARNAME_1":"Bac Ninh",
+		"color":"#FF0000"
+	},
+	{
+		"id":4,
+		"NAME_1":"Hưng Yên",
+        "VARNAME_1":"Hung Yen",
+		"color":"#FF0000"
+	},
+	{
+		"id":5,
+		"NAME_1":"Hà Nam",
+        "VARNAME_1":"Ha Nam",
+		"color":"#FF0000"
+	},
+	{
+		"id":6,
+		"NAME_1":"Hải Dương",
+        "VARNAME_1":"Hai Duong",
+		"color":"#FF0000"
+	},
+	{
+		"id":7,
+		"NAME_1":"Hải Phòng",
+        "VARNAME_1":"Hai Phong",
+		"color":"#FF0000"
+	},
+	{
+		"id":8,
+		"NAME_1":"Thái Bình",
+        "VARNAME_1":"Thai Binh",
+		"color":"#FF0000"
+	},
+	{
+		"id":9,
+		"NAME_1":"Nam Định",
+        "VARNAME_1":"Nam Dinh",
+		"color":"#FF0000"
+	},
+	{
+		"id":10,
+		"NAME_1":"Ninh Bình",
+        "VARNAME_1":"Ninh Binh",
+		"color":"#FF0000"
+	},
+	{
+		"id":11,
+		"NAME_1":"Lai Châu",
+        "VARNAME_1":"Lai Chau",
+		"color":"#33FFFF"
+	},
+	{
+		"id":12,
+		"NAME_1":"Lào Cai",
+        "VARNAME_1":"Lao Cai",
+		"color":"#33FFFF"
+	},
+	{
+		"id":13,
+		"NAME_1":"Điện Biên",
+        "VARNAME_1":"Dien Bien",
+		"color":"#33FFFF"
+	},
+	{
+		"id":14,
+		"NAME_1":"Yên Bái",
+        "VARNAME_1":"Yen Bai",
+		"color":"#33FFFF"
+	},
+	{
+		"id":15,
+		"NAME_1":"Sơn La",
+        "VARNAME_1":"Son La",
+		"color":"#33FFFF"
+	},
+	{
+		"id":16,
+		"NAME_1":"Hoà Bình",
+        "VARNAME_1":"Hoa Binh",
+		"color":"#33FFFF"
+	},
+	{
+		"id":17,
+		"NAME_1":"Hà Giang",
+        "VARNAME_1":"Ha Giang",
+		"color":"#FF6699"
+	},
+	{
+		"id":18,
+		"NAME_1":"Cao Bằng",
+        "VARNAME_1":"Cao Bang",
+		"color":"#FF6699"
+	},
+	{
+		"id":19,
+		"NAME_1":"Tuyên Quang",
+        "VARNAME_1":"Tuyen Quang",
+		"color":"#FF6699"
+	},
+	{
+		"id":20,
+		"NAME_1":"Bắc Kạn",
+        "VARNAME_1":"Bac Kan",
+		"color":"#FF6699"
+	},
+	{
+		"id":21,
+		"NAME_1":"Lạng Sơn",
+        "VARNAME_1":"Lang Son",
+		"color":"#FF6699"
+	},
+	{
+		"id":22,
+		"NAME_1":"Thái Nguyên",
+        "VARNAME_1":"Thai Nguyen",
+		"color":"#FF6699"
+	},
+	{
+		"id":23,
+		"NAME_1":"Bắc Giang",
+        "VARNAME_1":"Bac Giang",
+		"color":"#FF6699"
+	},
+	{
+		"id":24,
+		"NAME_1":"Quảng Ninh",
+        "VARNAME_1":"Quang Ninh",
+		"color":"#FF6699"
+	},
+	{
+		"id":25,
+		"NAME_1":"Phú Thọ",
+        "VARNAME_1":"Phu Tho",
+		"color":"#FF6699"
+	},
+	{
+		"id":26,
+		"NAME_1":"Thanh Hóa",
+        "VARNAME_1":"Thanh Hoa",
+		"color":"#33CCCC"
+	},
+	{
+		"id":27,
+		"NAME_1":"Nghệ An",
+        "VARNAME_1":"Nghe An",
+		"color":"#33CCCC"
+	},
+	{
+		"id":28,
+		"NAME_1":"Hà Tĩnh",
+        "VARNAME_1":"Ha Tinh",
+		"color":"#33CCCC"
+	},
+	{
+		"id":29,
+		"NAME_1":"Quảng Bình",
+        "VARNAME_1":"Quang Binh",
+		"color":"#33CCCC"
+	},
+	{
+		"id":30,
+		"NAME_1":"Quảng Trị",
+        "VARNAME_1":"Quang Tri",
+		"color":"#33CCCC"
+	},
+	{
+		"id":31,
+		"NAME_1":"Thừa Thiên Huế",
+        "VARNAME_1":"Thua Thien Hue",
+		"color":"#33CCCC"
+	},
+	{
+		"id":32,
+		"NAME_1":"Đà Nẵng",
+        "VARNAME_1":"Da Nang",
+		"color":"#0066FF"
+	},
+	{
+		"id":33,
+		"NAME_1":"Quảng Ngãi",
+        "VARNAME_1":"Quang Ngai",
+		"color":"#0066FF"
+	},
+	{
+		"id":34,
+		"NAME_1":"Quảng Nam",
+        "VARNAME_1":"Quang Nam",
+		"color":"#0066FF"
+	},
+	{
+		"id":35,
+		"NAME_1":"Bình Định",
+        "VARNAME_1":"Binh Dinh",
+		"color":"#0066FF"
+	},
+	{
+		"id":36,
+		"NAME_1":"Phú Yên",
+        "VARNAME_1":"Phu Yen",
+		"color":"#0066FF"
+	},
+	{
+		"id":37,
+		"NAME_1":"Khánh Hòa",
+        "VARNAME_1":"Khanh Hoa",
+		"color":"#0066FF"
+	},
+	{
+		"id":38,
+		"NAME_1":"Ninh Thuận",
+        "VARNAME_1":"Ninh Thuan",
+		"color":"#0066FF"
+	},
+	{
+		"id":39,
+		"NAME_1":"Bình Thuận",
+        "VARNAME_1":"Binh Thuan",
+		"color":"#0066FF"
+	},
+	{
+		"id":40,
+		"NAME_1":"Gia Lai",
+        "VARNAME_1":"Gia Lai",
+		"color":"#CC33CC"
+	},
+	{
+		"id":41,
+		"NAME_1":"Kon Tum",
+        "VARNAME_1":"Kon Tum",
+		"color":"#CC33CC"
+	},
+	{
+		"id":42,
+		"NAME_1":"Đắk Lắk",
+        "VARNAME_1":"Dak Lak",
+		"color":"#CC33CC"
+	},
+	{
+		"id":43,
+		"NAME_1":"Lâm Đồng",
+        "VARNAME_1":"Lam Dong",
+		"color":"#CC33CC"
+	},
+	{
+		"id":44,
+		"NAME_1":"Đắk Nông",
+        "VARNAME_1":"Dak Nong",
+		"color":"#CC33CC"
+	},
+	{
+		"id":45,
+		"NAME_1":"Hồ Chí Minh",
+        "VARNAME_1":"Ho Chi Minh",
+		"color":"#FFCC33"
+	},
+	{
+		"id":46,
+		"NAME_1":"Bình Dương",
+        "VARNAME_1":"Binh Duong",
+		"color":"#FFCC33"
+	},
+	{
+		"id":47,
+		"NAME_1":"Bình Phước",
+        "VARNAME_1":"Binh Phuoc",
+		"color":"#FFCC33"
+	},
+	{
+		"id":48,
+		"NAME_1":"Tây Ninh",
+        "VARNAME_1":"Tay Ninh",
+		"color":"#FFCC33"
+	},
+	{
+		"id":49,
+		"NAME_1":"Đồng Nai",
+        "VARNAME_1":"Dong Nai",
+		"color":"#FFCC33"
+	},
+	{
+		"id":50,
+		"NAME_1":"Bà Rịa - Vũng Tàu",
+        "VARNAME_1":"Ba Ria - Vung Tau",
+		"color":"#FFCC33"
+	},
+	{
+		"id":51,
+		"NAME_1":"Long An",
+        "VARNAME_1":"Long An",
+		"color":"#0000FF"
+	},
+	{
+		"id":52,
+		"NAME_1":"Đồng Tháp",
+        "VARNAME_1":"Dong Thap",
+		"color":"#0000FF"
+	},
+	{
+		"id":53,
+		"NAME_1":"Tiền Giang",
+        "VARNAME_1":"Tien Giang",
+		"color":"#0000FF"
+	},
+	{
+		"id":54,
+		"NAME_1":"Bến Tre",
+        "VARNAME_1":"Ben Tre",
+		"color":"#0000FF"
+	},
+	{
+		"id":55,
+		"NAME_1":"An Giang",
+        "VARNAME_1":"An Giang",
+		"color":"#0000FF"
+	},
+	{
+		"id":56,
+		"NAME_1":"Cần Thơ",
+        "VARNAME_1":"Can Tho",
+		"color":"#0000FF"
+	},
+	{
+		"id":57,
+		"NAME_1":"Vĩnh Long",
+        "VARNAME_1":"Vinh Long",
+		"color":"#0000FF"
+	},
+	{
+		"id":58,
+		"NAME_1":"Trà Vinh",
+        "VARNAME_1":"Tra Vinh",
+		"color":"#0000FF"
+	},
+	{
+		"id":59,
+		"NAME_1":"Kiên Giang",
+        "VARNAME_1":"Kien Giang",
+		"color":"#0000FF"
+	},
+	{
+		"id":60,
+		"NAME_1":"Hậu Giang",
+        "VARNAME_1":"Hau Giang",
+		"color":"#0000FF"
+	},
+	{
+		"id":61,
+		"NAME_1":"Sóc Trăng",
+        "VARNAME_1":"Soc Trang",
+		"color":"#0000FF"
+	},
+	{
+		"id":62,
+		"NAME_1":"Bạc Liêu",
+        "VARNAME_1":"Bac Lieu",
+		"color":"#0000FF"
+	},
+	{
+		"id":63,
+		"NAME_1":"Cà Mau",
+        "VARNAME_1":"Ca Mau",
+		"color":"#0000FF"
+	},
+	{
+		"id":64,
+		"NAME_1":"Đảo Phú Quốc",
+        "VARNAME_1":"Dao Phu Quoc",
+		"color":"#0000FF"
+	}
+ ]
