@@ -31,7 +31,7 @@ function VietNamMap() {
         <div class='column' style={{ width:'40%', display:'flex', justifyContent:'flex-end', marginTop:'20px' }}>
           <FullWidthGrid handelHover={onHover} itemId={itemId}/>
         </div>
-        <div class='column' style={{ width:'60%' }}>
+        <div class='column' style={{ width:'60%', height:'100vh' }}>
           <ComposableMap
               projection="geoMercator"
               projectionConfig={{ scale: 2100}}
@@ -40,7 +40,7 @@ function VietNamMap() {
                 height: '100%',
               }}
             >
-              <ZoomableGroup center={[110, 17]}>
+              <ZoomableGroup center={[111, 16]}>
               {vietnam.map((geoData) => (
                 <Geographies key={geoData.arcs} geography={geoData}>
                   {({ geographies }) =>
